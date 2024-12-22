@@ -1,0 +1,25 @@
+{
+	"name": "template",
+	"emitLegacyScripts": false,
+	"tree": {
+		"$className": "DataModel",
+
+		"ReplicatedStorage": {
+			"shared": {
+				"$path": "src/shared"
+			},
+			"packages": {
+				"$path": "Packages"
+			},
+			"client": {
+				"$path": "src/client"
+			}
+		},
+
+		"ServerScriptService": {
+			"server": {
+				"$path": "src/server"
+			}
+		}
+	}
+}
