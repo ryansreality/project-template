@@ -16,5 +16,4 @@
 
 - 🚀 [**Rokit**](https://github.com/rojo-rbx/rokit)
 - 🛠️ [**Rojo**](https://rojo.space/)
-- 📦 [**Wally**](https://wally.run/)
-- 📚 [**Wally Package Types**](https://crates.io/crates/wally-package-types)
+- 📦 [**Pesde**](https://pesde.dev/)
